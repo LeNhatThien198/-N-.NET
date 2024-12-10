@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\-N-.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\-N-.NET\\QuanLyDiemHocSinh\\Quanlydiemhocsinh_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyDiemHocSinh\\Quanlydiemhocsinh_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\-N-.NET\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\-N-.NET\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyDiemHocSinh\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\Form1.cs",
-              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
-              "RelativeToolTip": "QuanLyDiemHocSinh\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:30:11.936Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -46,8 +45,54 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quanlydiemhocsinh_log.ldf",
+              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Quanlydiemhocsinh_log.ldf",
+              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\Quanlydiemhocsinh_log.ldf",
+              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Quanlydiemhocsinh_log.ldf",
+              "RelativeToolTip": "QuanLyDiemHocSinh\\Quanlydiemhocsinh_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIkSURBVDhPpVJLaFNBFD3zEtEuQqpCWqu0iEhFEcQY3PjZuNONoFLBH6ibighBRYK7SooBi1a7UXRRhGJxLyqiUtRFMYKCIH6wVYiJaWt8SV7eb653Jk0xaXShB\u002BbDvXPPnHtm8F8gotndv0OoKf0oRSR9ZyqXDzIpxwjFjuM61wzhUAt2xFZW8y8f9ruvnl4hvzBKrjVGvv2M6GucciOgvsER5qtCSiLPk2TZPkV3npiTbnz5NBHYEF0OsSiCQDDIIQFqP4Cxtrc4f7JHH7pwYxznBp8jce0FPL\u002Bh7eHUQd9M76HiZIoqM3epkr89TwEXke34VCz7NGN6dQqCxP2Sa4KsKciFSyAr07Ay77SCxL418CXQf3McZtnVBWcOx/Rag8H1jAW8Y/kiAMFr64pubM2uRXLoDhNIxA9tROLYZpw\u002BEoPj1begXK8\u002BxW8ofJvUCuK7u7lnYGA4Paegtyeq1xoMzVfHQAi3d2oFA9dHtWnbN3Vi17ZVejQq4BY4oAlqCcEKJrSCU0f3wuWC1V2L0dXRimWRcJMWeOJXVrMOKFPBf\u002BnegydIXhrSsb8hyNVCOan\u002Bn4LQcggXt/TBWZ9B2TZw//U69F5\u002B02iVhuFLIdRTaTMFl/MxNQxBkMwqpYDpLZ09Ph9GgG38\u002BOE9slkLjlWA69golglmSSD3M4TsD0Xa9HINnbmV3E\u002Bl/OdMyQ1FVEy5oRItYvq7TaG2s1cf/4EB\u002BAWfvx/NZ0PsMgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-10T08:50:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyDiemHocSinh.csproj.user",
+              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj.user",
+              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj.user",
+              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj.user",
+              "RelativeToolTip": "QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-10T08:50:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyDiemHocSinh.csproj",
+              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj",
+              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj",
+              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj",
+              "RelativeToolTip": "QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T08:50:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\Form1.cs",
+              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
+              "RelativeToolTip": "QuanLyDiemHocSinh\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:30:11.936Z",
+              "EditorCaption": ""
             }
           ]
         }

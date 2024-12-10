@@ -18,7 +18,8 @@
       "RelativeMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|solutionrelative:quanlydiemhocsinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|d:\\-n-.net\\quanlydiemhocsinh\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|d:\\-n-.net\\quanlydiemhocsinh\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{8035F2AF-EFFC-4C33-B63B-B6785B1AA4F9}|QuanLyDiemHocSinh\\QuanLyDiemHocSinh.csproj|solutionrelative:quanlydiemhocsinh\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,10 +58,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-10T08:27:27.597Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",

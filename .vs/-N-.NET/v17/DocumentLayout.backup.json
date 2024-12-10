@@ -14,28 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\Form1.cs",
-              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
-              "RelativeToolTip": "QuanLyDiemHocSinh\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:30:11.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
@@ -48,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyDiemHocSinh\\Form1.cs",
+              "ToolTip": "D:\\-N-.NET\\QuanLyDiemHocSinh\\Form1.cs",
+              "RelativeToolTip": "QuanLyDiemHocSinh\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:30:11.936Z",
+              "EditorCaption": ""
             }
           ]
         }
